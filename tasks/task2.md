@@ -50,7 +50,7 @@ while True:
     elif button_b.is_pressed():
         display.scroll("B")
     sleep(100)
-
+```
 ## Supporting information
 
 * The complete tutorial and technical documentation about Buttons can be found [here](http://microbit-micropython.readthedocs.io/en/latest/button.html).
